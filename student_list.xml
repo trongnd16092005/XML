@@ -1,0 +1,17 @@
+<students>
+<student>
+    <name>Emily Brown</name>
+    <age>22</age>
+    <gpa>3.7</gpa>
+</student>
+<student>
+    <name>Michael Davis</name>
+    <age>20</age>
+    <gpa>3.6</gpa>
+</student>
+<student>
+    <name>Sophia Wilson</name>
+    <age>18</age>
+    <gpa>4.0</gpa>
+</student>
+</students>
