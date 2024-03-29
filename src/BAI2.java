@@ -8,7 +8,7 @@ public class BAI2 {
     public static void main(String[] args) {
         List<Student> studentList = createStudentList();
         try {
-            FileWriter writer = new FileWriter("student_list.xml");
+            FileWriter writer = new FileWriter("studentlist.xml");
             writer.write("<students>\n");
             for (Student student : studentList) {
                 writer.write("<student>\n");
